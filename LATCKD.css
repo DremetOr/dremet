@@ -1,7 +1,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
+	--Watermark: "KDream";
 	--transparencycolor:			0, 0, 0;
 	--transparencyalpha:			0.15;
 	--messagetransparency:			0.5;
@@ -309,7 +309,6 @@ html {
 		10.	TYPINGINDICATOR
 		11.	CHANNELDMS
 	19.	UPDATENOTICE
-	20.	WATERMARK
 */
 
 
